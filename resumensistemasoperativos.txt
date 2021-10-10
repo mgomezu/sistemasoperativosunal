@@ -1,0 +1,14 @@
+Un sistema operativo es un conjunto de programas que controla la ejecución del software de instalación y actúa como una interfaz entre el hardware del computador y el usuario. Es el que controla todo el hardware y permite que se instale el software.
+
+El objetivo de todo sistema operativo es que el sistema de cómputo se use de manera cómoda e intuitiva.
+
+las características principales del sistema operativo son:
+-Habilidad para evolucionar: un sistema operativo deberá desarrollarse de tal manera que permita la introducción de nuevas funciones sin que interfiera en el servicio.
+-encargado de administrar el hardware: el sistema operativo debe ser eficaz y mejorar los recursos del ordenador.
+-relacionar diapositivas: el sistema operativo permite usar dispositivos conectados al hardware como son el teclado y el mouse.
+-organiza datos para el acceso rápido y seguro.
+-maneja las comunicaciones de red: permite al usuario manejar con facilidad el uso de las redes en el computador.
+
+Hay distintos tipos de sistema operativo desarrollados para aplicaciones y plataformas distintas, orientados a las necesidades de cada usuario, pero se pueden dividir según si son multitareas o monetaria, es decir si permiten ejecuciones simultaneas de diferentes programas; o si son monousuario y multiusuario, como su nombre lo indica es para un único usuario o varios usuarios simultáneos.
+
+Los sistemas operativos tienen dos funciones principales, la primera es la gestión del Hardware y la administración de recursos, y facilitar el trabajo del usuario.
